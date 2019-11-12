@@ -2,6 +2,7 @@
 #define JPG_H
 
 #include "ImageBase.h"
+#include <memory>
 using namespace std;
 
 #define BYTE_ORDER_BIG 0x4d4d
